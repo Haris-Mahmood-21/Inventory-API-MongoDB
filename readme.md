@@ -21,7 +21,7 @@ Server: Uvicorn
 ## Installation & Setup
 
 1. **Clone the repository:**
-git clone https://github.com/your-username/grocery-api-mongodb.git
+git clone https://github.com/Haris-Mahmood-21/Inventory-API-MongoDB
 cd grocery-api-mongodb
 
 2. **Create and activate a virtual environment:**
